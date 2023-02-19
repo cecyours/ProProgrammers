@@ -18,5 +18,5 @@ int main()
 		case '%':printf("%d %% %d = %d\n",a,b,a%b);break;
 	}
 	
-	return 'A';
+	return 29.89;
 }
