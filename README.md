@@ -15,9 +15,9 @@
 	for example user enter 3,8 
 	then display tables of 3,4,5,6,7,8.
 ```
-5. dsd
-6. sdf
-
+4. Write a program to display all even numbers till the given number...
+5. write a program to display factorial of given number.
+6. write a program to generate fibonacci series of given number.
 ### TASK
 1 . w.a.p to get fraction of float number.
 
