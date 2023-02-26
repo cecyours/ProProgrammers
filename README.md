@@ -9,7 +9,14 @@
 	// output
 	ans = 11 which is next prime for 10
 ```
+3. write a program to display tables between given 2 numbers.
+```
 
+	for example user enter 3,8 
+	then display tables of 3,4,5,6,7,8.
+```
+5. dsd
+6. sdf
 
 ### TASK
 1 . w.a.p to get fraction of float number.
